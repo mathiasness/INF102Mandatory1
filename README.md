@@ -1,4 +1,4 @@
-# Wordle - Semester Assignment 1
+# Wordle - INF102 Obligatory Assignment 1
 
 <img align="right" src="images/Wordle_example.gif" width="400"/>
 
