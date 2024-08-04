@@ -60,8 +60,5 @@ Correct and appropriate use of algorithms and data structures was crucial in thi
 * `m` - number of words in the list possibleWords
 * `k` - number of letters in the wordleWords
 
-## Useful links
-- **[Worlde] (https://www.nytimes.com/games/wordle/index.html)** 
-
 ## Author
 Task was completed by Mathias Hop Ness, with a pre existing code base from the Institute of Informatics at UIB.
